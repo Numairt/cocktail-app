@@ -1,4 +1,6 @@
 # Cocktail-App
+  deploy link
+  - https://cocktail-db-app-3a5c3b.netlify.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
